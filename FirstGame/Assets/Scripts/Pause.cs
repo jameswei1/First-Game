@@ -15,8 +15,7 @@ public class Pause : MonoBehaviour
 			else {
 				PauseGame();
 			}
-		}
-		
+		}	
 	}
 
 	void PauseGame() {
